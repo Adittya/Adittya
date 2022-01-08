@@ -1,4 +1,4 @@
-👋 Hi, I'm Adittya
+👋 Hi, I'm Adittya Patil
 
 - I'm a second year student at the University of Texas at Austin, studying Physics with a concentration in Computation.
 - My interests include Quantum Information Science, Quantum Algorithm Design, and Quantum Machine Learning.
