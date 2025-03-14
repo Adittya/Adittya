@@ -1,6 +1,7 @@
 👋 Hi, I'm Adittya Patil
 
-- I'm a recent graduate of the University of Texas at Austin with a B.S. in Physics with certificates in Scientific Computation & Data Sciences and Quantum Information Science
+- I am currently an R&D Software Engineer on the Quantum Engineering Solutions team at Keysight Technologies. I write software that turns an arbitrary set of wires and electronics into a control system for quantum computers.
+- I'm a recent graduate of the University of Texas at Austin with a B.S. in Physics with certificates in Scientific Computation & Data Sciences and Quantum Information Science.
 - My interests include various topics in Quantum Computation (primarily Architecture, Error Correction, and Algorithms) and the applications of HPC.
 
 
